@@ -101,10 +101,9 @@ Select Save, enter the project name, and save the completed Fusion 360 design
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
-<img width="988" height="706" alt="Screenshot 2026-11-22 134557" src="https://github.com/user-attachments/assets/68288275-38a9-49f1-9dd8-89a40c8130be" />
+<img width="985" height="707" alt="Screenshot 2026-11-22 141902" src="https://github.com/user-attachments/assets/14e69c96-ef91-4b1d-9249-9f9b48667e98" />
 
-
-## RESULT:
+ RESULT:
 Thus, the cut section for solid model is created.
 
 
